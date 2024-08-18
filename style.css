@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdf5e6;
+    color: #444;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff6f61;
+    color: white;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.content {
+    padding: 20px;
+}
+
+.rakhi-image {
+    width: 300px;
+    height: auto;
+    margin: 20px 0;
+}
+
+p {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
+
+.wish-button {
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.wish-button:hover {
+    background-color: #e55a4f;
+}
+
+footer {
+    background-color: #444;
+    color: white;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
